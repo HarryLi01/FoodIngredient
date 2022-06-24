@@ -1,0 +1,259 @@
+[
+   {
+        "name": "土豆",
+        "emoji": "🥔",
+        "image": "",
+        "alias": false,
+        "icon": "",
+        "label": "vegetable"
+   },
+   {
+       "name": "胡萝卜",
+       "emoji": "🥕",
+       "image": "",
+       "alias": false,
+       "icon": "",
+       "label": "vegetable"
+   },
+   {
+       "name": "花菜",
+       "emoji": "🥦",
+       "image": "",
+       "alias": false,
+       "icon": "",
+       "label": "vegetable"
+   },
+   {
+       "name": "白萝卜",
+       "emoji": "🥣",
+       "image": "",
+       "alias": false,
+       "icon": "",
+       "label": "vegetable"
+   },
+   {
+       "name": "西葫芦",
+       "emoji": "🥒",
+       "image": "",
+       "alias": false,
+       "icon": "",
+       "label": "vegetable"
+   },
+   {
+        "name": "番茄",
+        "emoji": "🍅",
+        "image": "",
+        "alias": false,
+        "icon": "",
+        "label": "vegetable"
+   },
+   {
+       "name": "芹菜",
+       "emoji": "🥬",
+       "image": "",
+       "alias": false,
+       "icon": "",
+       "label": "vegetable"
+   },
+   {
+       "name": "黄瓜",
+       "emoji": "🥒",
+       "image": "",
+       "alias": false,
+       "icon": "",
+       "label": "vegetable"
+   },
+   {
+       "name": "洋葱",
+       "emoji": "🧅",
+       "image": "",
+       "alias": false,
+       "icon": "",
+       "label": "vegetable"
+   },
+   {
+       "name": "莴笋",
+       "emoji": "🍃",
+       "image": "",
+       "alias": false,
+       "icon": "",
+       "label": "vegetable"
+   },
+   {
+        "name": "菌菇",
+        "emoji": "🍄",
+        "image": "",
+        "alias": false,
+        "icon": "",
+        "label": "vegetable"
+   },
+   {
+       "name": "茄子",
+       "emoji": "🍆",
+       "image": "",
+       "alias": false,
+       "icon": "",
+       "label": "vegetable"
+   },
+   {
+       "name": "豆腐",
+       "emoji": "🍮",
+       "image": "",
+       "alias": false,
+       "icon": "",
+       "label": "vegetable"
+   },
+   {
+       "name": "包菜",
+       "emoji": "🥬",
+       "image": "",
+       "alias": false,
+       "icon": "",
+       "label": "vegetable"
+   },
+   {
+       "name": "白菜",
+       "emoji": "🥬",
+       "image": "",
+       "alias": false,
+       "icon": "",
+       "label": "vegetable"
+   },
+   {
+        "name": "午餐肉",
+        "emoji": "🥓",
+        "image": "",
+        "alias": false,
+        "icon": "",
+        "label": "meat"
+   },
+   {
+       "name": "香肠",
+       "emoji": "🌭️",
+       "image": "",
+       "alias": false,
+       "icon": "",
+       "label": "meat"
+   },
+   {
+       "name": "鸡肉",
+       "emoji": "🐔",
+       "image": "",
+       "alias": false,
+       "icon": "",
+       "label": "meat"
+   },
+   {
+       "name": "猪肉",
+       "emoji": "🐷",
+       "image": "",
+       "alias": false,
+       "icon": "",
+       "label": "meat"
+   },
+   {
+       "name": "鸡蛋",
+       "emoji": "🥚",
+       "image": "",
+       "alias": false,
+       "icon": "",
+       "label": "meat"
+   },
+   {
+        "name": "虾",
+        "emoji": "🦐",
+        "image": "",
+        "alias": false,
+        "icon": "",
+        "label": "meat"
+   },
+   {
+       "name": "牛肉",
+       "emoji": "🐮",
+       "image": "",
+       "alias": false,
+       "icon": "",
+       "label": "meat"
+   },
+   {
+       "name": "骨头",
+       "emoji": "🦴",
+       "image": "",
+       "alias": false,
+       "icon": "",
+       "label": "meat"
+   },
+   {
+       "name": "面食",
+       "emoji": "🍝",
+       "image": "",
+       "alias": false,
+       "icon": "",
+       "label": "main"
+   },
+   {
+       "name": "面包",
+       "emoji": "🍞",
+       "image": "",
+       "alias": false,
+       "icon": "",
+       "label": "main"
+   },
+   {
+        "name": "米",
+        "emoji": "🍚",
+        "image": "",
+        "alias": false,
+        "icon": "",
+        "label": "main"
+   },
+   {
+       "name": "方便面",
+       "emoji": "🍜",
+       "image": "",
+       "alias": false,
+       "icon": "",
+       "label": "main"
+   },
+   {
+       "name": "烤箱",
+       "emoji": "🗄",
+       "image": "",
+       "alias": false,
+       "icon": "",
+       "label": "tool"
+   },
+   {
+       "name": "空气炸锅",
+       "emoji": "🥘",
+       "image": "",
+       "alias": false,
+       "icon": "",
+       "label": "tool"
+   },
+   {
+       "name": "微波炉",
+       "emoji": "🗃",
+       "image": "",
+       "alias": false,
+       "icon": "",
+       "label": "tool"
+   },
+   {
+        "name": "电饭煲",
+        "emoji": "🍙",
+        "image": "",
+        "alias": false,
+        "icon": "",
+        "label": "tool"
+   },
+   {
+        "name": "一口能炒油能煮的大锅",
+        "emoji": "🍲",
+        "image": "",
+        "alias": false,
+        "icon": "",
+        "label": "tool"
+   }
+]
+
