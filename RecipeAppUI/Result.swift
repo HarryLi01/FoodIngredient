@@ -117,13 +117,16 @@ struct Result: View {
                     Spacer()
                     
                 }
-                
+
                 ForEach(availableRecipes, id: \.self) { recipe in
                     Link(destination: URL(string: recipe.link)!, label: {
                         Text("\(recipe.name)")
                     })
+//                        NavigationLink(destination: VideoPage(url: "\(recipe.link)")) {
+//                            Text("\(recipe.name)")
+//                        }
+//                        Text("\(recipe.name)")
                 }
-
             }
         }
 

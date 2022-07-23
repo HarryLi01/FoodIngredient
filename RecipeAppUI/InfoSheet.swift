@@ -22,6 +22,11 @@ struct InfoSheet: View {
             Section(header: Text("清除")) {
                 Text("将检索出的菜谱清空。")
             }
+            Section(header: Text("本项目的GitHub地址")) {
+                Link(destination: URL(string: "https://github.com/HarryLi01/FoodIngredient")!) {
+                    Text("https://github.com/HarryLi01/FoodIngredient")
+                }
+            }
         }
     }
 }
