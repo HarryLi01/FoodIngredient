@@ -24,6 +24,7 @@
 		0AF6CCF7283BCB25006C96CF /* Meat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AF6CCF6283BCB25006C96CF /* Meat.swift */; };
 		0AF6CCF9283BCE4E006C96CF /* MainFood.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AF6CCF8283BCE4E006C96CF /* MainFood.swift */; };
 		0AF6CCFB283BD299006C96CF /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AF6CCFA283BD299006C96CF /* Result.swift */; };
+		224E8CE129BF49B500542099 /* IngredientCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 224E8CE029BF49B500542099 /* IngredientCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		0AF6CCF6283BCB25006C96CF /* Meat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meat.swift; sourceTree = "<group>"; };
 		0AF6CCF8283BCE4E006C96CF /* MainFood.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainFood.swift; sourceTree = "<group>"; };
 		0AF6CCFA283BD299006C96CF /* Result.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Result.swift; sourceTree = "<group>"; };
+		224E8CE029BF49B500542099 /* IngredientCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IngredientCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				0AF6CCF6283BCB25006C96CF /* Meat.swift */,
 				0AF6CCF8283BCE4E006C96CF /* MainFood.swift */,
 				0AF6CCFA283BD299006C96CF /* Result.swift */,
+				224E8CE029BF49B500542099 /* IngredientCell.swift */,
 				0A0EF6992839267C00060FAD /* ContentView.swift */,
 				0AF1602C288BC93400A140C1 /* VideoWebPage.swift */,
 				0A0EF6B7283AAB7000060FAD /* Bundle-Decodable.swift */,
@@ -192,6 +195,7 @@
 				0A0EF6982839267C00060FAD /* RecipeAppUIApp.swift in Sources */,
 				0A0EF6A62839274900060FAD /* Header.swift in Sources */,
 				0AF6CCF7283BCB25006C96CF /* Meat.swift in Sources */,
+				224E8CE129BF49B500542099 /* IngredientCell.swift in Sources */,
 				0AF6CCFB283BD299006C96CF /* Result.swift in Sources */,
 				0AF1602D288BC93400A140C1 /* VideoWebPage.swift in Sources */,
 				0A0EF6AB283944E700060FAD /* Recipe.swift in Sources */,
@@ -327,7 +331,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"RecipeAppUI/Preview Content\"";
-				DEVELOPMENT_TEAM = 3285W8DA4A;
+				DEVELOPMENT_TEAM = G8RX7R6FQB;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -356,7 +360,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"RecipeAppUI/Preview Content\"";
-				DEVELOPMENT_TEAM = 3285W8DA4A;
+				DEVELOPMENT_TEAM = G8RX7R6FQB;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;

@@ -51,18 +51,12 @@ struct Result: View {
             VStack {
                 HStack {
                     Spacer()
-                    Spacer()
-                    Spacer()
-                    Spacer()
                     Picker(selection: $selectedMode, label: Text("选择你想要的模式吧!")) {
                         ForEach(modeArray, id: \.self) { mode in
                             Text("\(mode)").tag(mode)
                         }
                     }
                     .pickerStyle(.segmented)
-                    Spacer()
-                    Spacer()
-                    Spacer()
                     Spacer()
                 }
                 Spacer()
